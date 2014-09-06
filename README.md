@@ -29,6 +29,7 @@ Edit the Less files in `src/less` while `grunt` is running and you'll get an ins
 
 | Version | Release Date |
 | :-----: | :----------: |
+| 1.0.1 | 2014-09-05 |
 | 1.0.0 | 2014-09-05 |
 
 ## Versioning
