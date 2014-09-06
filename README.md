@@ -19,7 +19,7 @@ Or cloned via GitHub:
 1. `npm install`
 1. `grunt`
 
-**ProTip:** If `npm` requires `root` or `sudo` to run, this likely indicates a permissions issue on `~/.npm`. To reset the permissions, use ```sudo chown -R `whoami` ~/.npm```.
+**ProTip:** If `npm` requires `root` or `sudo` to run, this may indicate a permissions issue on `~/.npm`. To reset the permissions, use ```sudo chown -R `whoami` ~/.npm```.
 
 Edit the Less files in `src/less` while `grunt` is running and you'll get an instantly compiled and minified `open-sans.min.css` file in the `dist/css` directory.
 
@@ -29,6 +29,7 @@ Edit the Less files in `src/less` while `grunt` is running and you'll get an ins
 
 | Version | Release Date |
 | :-----: | :----------: |
+| 1.0.2 | 2014-09-06 |
 | 1.0.1 | 2014-09-05 |
 | 1.0.0 | 2014-09-05 |
 
